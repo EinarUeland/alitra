@@ -9,6 +9,7 @@ from alitra.frame_transform import FrameTransform
 
 
 class AlignFrames:
+
     @staticmethod
     def align_frames(
         p_1: PointList,
